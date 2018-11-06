@@ -1,10 +1,10 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'Parasol',
-      #directory : 'repository',
+      #baseline : 'Example-Seaside-Bootstrap',
+      #directory : 'src',
       #load : [ 'tests' ],
-      #platforms : [ #pharo, #squeak, #gemstone ]
+      #platforms : [ #pharo]
     }
   ]
 }
